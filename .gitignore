@@ -1,0 +1,6 @@
+*.out
+*.o
+.vscode
+.DS_Store
+*.mp4
+*.mov
